@@ -1,1 +1,2 @@
-[![backed](https://backed-bice.vercel.app/api/badge/user/lucasanini)](https://backed-bice.vercel.app/u/lucasanini)
+[![backed](https://backed.sh/api/badge/user/lucasanini)](https://backed.sh/u/lucasanini)
+[![starred by](https://backed.sh/api/badge/backers/lucasanini/lucasanini)](https://backed.sh/r/lucasanini/lucasanini)
